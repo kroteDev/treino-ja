@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  date: 2023-02-24 18:29:36
+  user: one
+  exercises_count: 1
+
+two:
+  name: MyString
+  date: 2023-02-24 18:29:36
+  user: two
+  exercises_count: 1
