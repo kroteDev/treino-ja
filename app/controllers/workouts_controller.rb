@@ -68,6 +68,6 @@ class WorkoutsController < ApplicationController
 
     # Only allow a list of trusted parameters through.
     def workout_params
-      params.require(:workout).permit(:name, :date, :exercises_count)
+      params.require(:workout).permit(:name, :date)
     end
 end
